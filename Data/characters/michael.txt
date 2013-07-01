@@ -1,0 +1,129 @@
+[ACCOUNT]
+character-username = michael
+character-password = javacode
+
+[CHARACTER]
+character-height = 0
+character-posx = 3239
+character-posy = 3222
+character-rights = 3
+membership = false
+lastLoginDate = 0
+character-energy = 100
+crystal-bow-shots = 0
+skull-timer = -1
+play-time = 9387
+magic-book = 0
+brother-info = 0	0
+brother-info = 1	0
+brother-info = 2	0
+brother-info = 3	0
+brother-info = 4	0
+brother-info = 5	0
+special-amount = 10.0
+selected-coffin = 0
+barrows-killcount = 0
+teleblock-length = 0
+pc-points = 0
+slayerTask = 0
+taskAmount = 0
+magePoints = 0
+autoRet = 1
+barrowskillcount = 0
+flagged = false
+wave = 0
+gwkc = 0
+fightMode = 0
+void = 0	0	0	0	0
+
+[QUESTS]
+DragonSlayer = 0
+cooksAssistant = 0
+DoricsQuest = 0
+
+[DEGRADING]
+DharoksHelm = 0
+DharoksAxe = 0
+DharoksBody = 0
+DharoksLegs = 0
+
+
+[EQUIPMENT]
+character-equip = 0	-1	1	
+character-equip = 1	6570	1	
+character-equip = 2	6585	1	
+character-equip = 3	1323	1	
+character-equip = 4	-1	1	
+character-equip = 5	-1	1	
+character-equip = 6	-1	0	
+character-equip = 7	-1	1	
+character-equip = 8	-1	0	
+character-equip = 9	-1	1	
+character-equip = 10	-1	1	
+character-equip = 11	-1	0	
+character-equip = 12	6737	1	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	25
+character-look = 3	29
+character-look = 4	35
+character-look = 5	39
+character-look = 6	44
+character-look = 7	14
+character-look = 8	7
+character-look = 9	8
+character-look = 10	9
+character-look = 11	5
+character-look = 12	0
+
+[SKILLS]
+character-skill = 0	30	14080
+character-skill = 1	1	0
+character-skill = 2	37	27868
+character-skill = 3	33	19672
+character-skill = 4	15	2640
+character-skill = 5	18	3775
+character-skill = 6	23	6875
+character-skill = 7	1	0
+character-skill = 8	37	29250
+character-skill = 9	1	0
+character-skill = 10	12	1650
+character-skill = 11	41	44200
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	304	1
+character-item = 1	591	1
+character-item = 2	1334	1
+character-item = 3	1356	1
+character-item = 4	996	99999776
+character-item = 6	2348	1
+character-item = 7	947	1
+character-item = 8	40	100
+character-item = 9	53	100
+character-item = 10	315	100
+character-item = 11	54	100
+character-item = 12	1512	1
+
+[BANK]
+character-bank = 0	947	16
+
+[FRIENDS]
+
+[EOF]
+

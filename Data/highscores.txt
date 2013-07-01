@@ -1,0 +1,6 @@
+//Rank# PlayerName TotalLevel XPTotal
+0	Your Gay	212	201550
+1	Michael	154	60300
+2	Bdunc	30	1300
+3	Beta	30	1300
+.
